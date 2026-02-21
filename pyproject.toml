@@ -1,0 +1,14 @@
+[project]
+name = "akubudget"
+version = "0.1.0"
+description = "Budget management app"
+requires-python = ">=3.14"
+dependencies = [
+    "pandas>=2.3.3",
+    "xlrd>=2.0.2",
+    "openpyxl>=3.1.5",
+    "streamlit>=1.54.0",
+    "plotly>=6.5.2",
+    "requests>=2.32.5",
+    "pandas-stubs>=2.3.3",
+]
