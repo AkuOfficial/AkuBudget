@@ -14,19 +14,13 @@
 3. Install dependencies: `uv sync`
 4. Run: `streamlit run app.py`
 
-## Usage
-- **Add expense**: Manually add with AI category suggestion
-- **Add salary**: Track monthly income
-- **View monthly**: See all transactions for a month
-- **Summary**: Get income/expense breakdown by category
-- **Import**: Auto-import and categorize bank XLS files
-
-## Categories
-- Groceries
-- Restaurants
-- Transport
-- Healthcare
-- Shopping
-- Entertainment
-- Bills
-- Other
+## TODO:
+1. Add Expense doesn't work
+2. AI Suggest category to Income tab 
+3. Add tags 
+4. Improve dashboard page 
+5. Categories with icons 
+6. How to treat investment expense? 
+7. Do I need left menu bar?
+8. Import other formats (csv, etc.)
+9. Add static/automatic/every period (month) transaction option
