@@ -24,3 +24,4 @@
 7. Do I need left menu bar?
 8. Import other formats (csv, etc.)
 9. Add static/automatic/every period (month) transaction option
+10. Possibility to add a goal displaying amount of money gathered to achieve it
